@@ -1,5 +1,5 @@
 {
-  "name": "next13-boilerplate",
+  "name": "next14-boilerplate",
   "version": "1.0.0",
   "private": true,
   "author": {
@@ -56,7 +56,7 @@
     "axios": "^1.2.1",
     "classnames": "^2.3.2",
     "html-react-parser": "^3.0.4",
-    "next": "^13.0.6",
+    "next": "^14.1.0",
     "next-redux-wrapper": "^8.0.0",
     "next-seo": "^5.15.0",
     "next-useragent": "^2.8.0",

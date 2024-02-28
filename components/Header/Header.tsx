@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="container mx-auto flex flex-col flex-wrap items-center px-5 py-8 md:flex-row">
       <Link href="#" className="text-xl font-bold uppercase md:text-2xl">
-        Next13 Boilerplate
+        Next14 Boilerplate
       </Link>
 
       <nav className="body-font mt-2 flex flex-wrap items-center justify-center text-base font-medium md:ml-auto md:mt-0">
