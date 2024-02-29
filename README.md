@@ -1,8 +1,8 @@
 <a name="read-me-template" />
 
-# 📦 Next.js 13 Boilerplate
+# 📦 Next.js 14 Boilerplate
 
-> This is a readme from next.js 13 boilerplate.
+> This is a readme from next.js 14 boilerplate.
 
 <p align="center">
     <img src="https://github.com/jsdeveloperr/nextjs-boilerplate/blob/master/public/assets/nextjs12-boilerplate.png" width="500" alt="Next.js 13 Boilerplate" />
